@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Daily Planner",
+    "price": "0.09",
+    "description": "Amazing daily planner set on one 8.5 x 11 paper. Print as you go!",
+    "image_url": "https://res.cloudinary.com/charlenegrant/image/upload/v1670172364/stationary-mockups/Daily_Planner_ccccha.jpg",
+    "filename": "Daily.pdf",
+    "hash": "QmacNwf1FMiuhJWKZLBm2nrmMyS7gEmQdYosDeuUAvbhLu"
+  },
+  {
+    "id": 2,
+    "name": "Weekly Planner",
+    "price": "0.09",
+    "description": "Amazing weekly planner set on one 8.5 x 11 paper. Print as you go!",
+    "image_url": "https://res.cloudinary.com/charlenegrant/image/upload/v1670172364/stationary-mockups/Weekly_Planner_a59alo.jpg",
+    "filename": "Weekly.pdf",
+    "hash": "Qmc4z1Rbjtozuq533sdaohiZmUEWzUSo3TtTbLS1y745Tw"
+  },
+  {
+    "id": 3,
+    "name": "Monthly Planner",
+    "price": "0.09",
+    "description": "Amazing monthly planner set on one 8.5 x 11 paper. Print as you go!",
+    "image_url": "https://res.cloudinary.com/charlenegrant/image/upload/v1670172364/stationary-mockups/Monthly_Planner_ktkz1s.jpg",
+    "filename": "Monthly.pdf",
+    "hash": "QmaYEj2c7WEwMsmWvhEZNCH7ynr2FRPPMgWGsiN48D3VUe"
+  }
+]
